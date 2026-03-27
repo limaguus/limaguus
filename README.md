@@ -1,6 +1,6 @@
 # Olá, eu sou Gustavo Lima 
 
-Desenvolvedor com foco em Front-End e Análise de Dados.
+Desenvolvedor com foco em Front-End e Análise de Dados. Estudante de Engenharia de Software
 
 ## Tecnologias
 - React
