@@ -17,7 +17,7 @@ Tenho experiência em projetos práticos onde atuo como desenvolvedor full stack
 
 ## Projetos em destaque
 - Beluga (Sistema acadêmico com foco em dados e UX)
-- Em desenvolvimento...
+- Em desenvolvimento..
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/gustavo-l-65994936a/
