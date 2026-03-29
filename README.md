@@ -6,6 +6,7 @@ Desenvolvedor com foco em Front-End e Análise de Dados. Estudante de Engenharia
 - React
 - Next.js
 - JavaScript
+- Java
 - SQL
 - HTML/CSS
 - Git e GitHub
