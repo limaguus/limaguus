@@ -136,7 +136,7 @@ Universidade Evangélica de Goiás :contentReference[oaicite:0]{index=0}
 - Comunicação clara
 - Organização
 - Aprendizado rápido
-- Trabalho em equipe :contentReference[oaicite:2]{index=2}
+- Trabalho em equipe 
 
 ---
 
@@ -150,4 +150,4 @@ Busco uma oportunidade de estágio em Engenharia de Software para aplicar meus c
 
 📧 Email: **limaguuss@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/gustavo-l-65994936a**  
-💻 GitHub: **github.com/limaguuss** :contentReference[oaicite:3]{index=3}
+💻 GitHub: **github.com/limaguuss** 
