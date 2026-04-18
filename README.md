@@ -89,7 +89,7 @@ Sistema acadêmico voltado para gestão e organização de dados.
 - Colaboração em equipe com metodologias ágeis  
 
 ---
-###📊 Análise de Eficiência Logística
+### 📊 Análise de Eficiência Logística
 
 Projeto focado em análise de dados de e-commerce utilizando Python e Power BI.
 
