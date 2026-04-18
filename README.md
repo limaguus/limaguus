@@ -139,10 +139,10 @@ Universidade Evangélica de Goiás
 
 ## 📚 Cursos e Certificações
 
-- Google Data Analytics  
-- Google AI Essentials  
-- Google IT Automation with Python  
-- Google Project Management  
+- Google Data Analytics (Google Specialization)
+- Google AI Essentials  (Google Specialization)
+- Google IT Automation with Python  (Google Specialization)
+- Google Project Management  (Google Specialization)
 - Scrum Fundamentals Certified  
 - Fundamentos de Banco de Dados  
 - UX Design e Design Thinking  
