@@ -1,18 +1,16 @@
 # 👋 Olá, eu sou Gustavo Lima 
 
-🎯 Estudante de Engenharia de Software com foco em **Análise de Dados, Automação e Desenvolvimento**.
+🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento de Software, Dados e Automação**.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com experiência prática em desenvolvimento web, análise e organização de dados e construção de aplicações orientadas à resolução de problemas.
+Sou estudante de Engenharia de Software e desenvolvo soluções que combinam desenvolvimento de software, análise de dados e automação para resolver problemas reais.
 
-Atualmente, estou focado em desenvolver habilidades em **análise de dados**, trabalhando com Python, SQL e visualização de dados, além de manter minha base em desenvolvimento com JavaScript, React e Next.js.
+Tenho experiência prática com Python, SQL, JavaScript, React e Power BI em projetos que envolvem desenvolvimento de aplicações, manipulação de dados, integração de APIs e automação de processos. Acredito que a tecnologia gera mais valor quando transforma dados em informações úteis e melhora a eficiência dos processos.
 
-Tenho interesse em transformar dados em insights úteis para tomada de decisão e evoluir tecnicamente para atuar em ambientes reais de negócio.
-
-Além disso, possuo base em **Linux e fundamentos de cybersecurity**, com interesse futuro em atuar na interseção entre dados e segurança.
+Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial, Business Intelligence, Data Analytics e Project Management por meio de especializações do Google, buscando unir visão técnica e entendimento de negócio para criar soluções cada vez mais completas.
 
 ---
 
