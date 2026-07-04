@@ -188,3 +188,7 @@ Busco uma oportunidade de estágio ou posição júnior em **Análise de Dados, 
 📧 Email: **limaguuss@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/limaguus**  
 💻 GitHub: **github.com/limaguus**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/limaguus/limaguus/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
