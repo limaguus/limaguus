@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou Gustavo Lima 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Desenvolvo+software;Automatizo+processos;Transformo+dados+em+decis%C3%A3o" alt="Typing SVG" />
+</p>
+
 🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento de Software, Dados e Automação**.
 
 ---
