@@ -16,7 +16,8 @@ Tenho experiência prática com JavaScript, TypeScript, React, Node.js e Express
 
 Recentemente concluí um curso completo de desenvolvimento Full Stack (Node, JavaScript e TypeScript), aprofundando conhecimentos em Next.js, Tailwind, bancos de dados relacionais e não relacionais (MySQL, MongoDB, Prisma) e Docker. Também tenho vivência complementar em Python, SQL e Power BI para automação e análise de dados, o que me dá uma visão completa de todo o ciclo de um produto — do dado bruto à experiência final do usuário.
 
-**Acredito que a tecnologia gera mais valor quando une boas soluções técnicas a um entendimento real do problema de negócio, e busco continuar evoluindo como desenvolvedor full stack, sempre unindo qualidade de código com visão prática de impacto.**
+Acredito que a tecnologia gera mais valor quando une boas soluções técnicas a um entendimento real do problema de negócio, e busco continuar evoluindo como desenvolvedor full stack, sempre unindo qualidade de código com visão prática de impacto.
+
 ---
 
 
