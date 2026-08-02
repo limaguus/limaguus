@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Desenvolvedor+Full+Stack;Construo+aplica%C3%A7%C3%B5es+do+front+ao+back;Transformo+ideias+em+produtos+reais" alt="Typing SVG" />
 </p>
 
-🎯🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack.**
+🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack.**
 
 ---
 
