@@ -19,6 +19,7 @@ Recentemente concluí um curso completo de desenvolvimento Full Stack (Node, Jav
 Acredito que a tecnologia gera mais valor quando une boas soluções técnicas a um entendimento real do problema de negócio, e busco continuar evoluindo como desenvolvedor full stack, sempre unindo qualidade de código com visão prática de impacto.
 ---
 
+
 ## 💼 Experiência
 
 ### Desenvolvedor Full Stack | Líder de Equipe  
