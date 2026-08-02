@@ -1,21 +1,22 @@
 # 👋 Olá, eu sou Gustavo Lima 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Desenvolvo+software;Automatizo+processos;Transformo+dados+em+decis%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Desenvolvedor+Full+Stack;Construo+aplica%C3%A7%C3%B5es+do+front+ao+back;Transformo+ideias+em+produtos+reais" alt="Typing SVG" />
 </p>
 
-🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento de Software, Dados e Automação**.
+🎯🎯 Estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack.**
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvo soluções que combinam desenvolvimento de software, análise de dados e automação para resolver problemas reais.
+Sou estudante de Engenharia de Software e atuo no desenvolvimento full stack de aplicações web, do front-end ao back-end, incluindo estruturação de dados e integração de APIs.
 
-Tenho experiência prática com Python, SQL, JavaScript, React e Power BI em projetos que envolvem desenvolvimento de aplicações, manipulação de dados, integração de APIs e automação de processos. Acredito que a tecnologia gera mais valor quando transforma dados em informações úteis e melhora a eficiência dos processos.
+Tenho experiência prática com JavaScript, TypeScript, React, Node.js e Express em projetos que envolvem desenvolvimento de interfaces, construção de backend, integração de APIs REST e modelagem de dados. Sou Tech Lead e desenvolvedor principal do Beluga, uma aplicação de produtividade acadêmica que construo com equipe própria há dois anos, atuando em todas as camadas do sistema.
 
-Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial, Business Intelligence, Data Analytics e Project Management por meio de especializações do Google, buscando unir visão técnica e entendimento de negócio para criar soluções cada vez mais completas.
+Recentemente concluí um curso completo de desenvolvimento Full Stack (Node, JavaScript e TypeScript), aprofundando conhecimentos em Next.js, Tailwind, bancos de dados relacionais e não relacionais (MySQL, MongoDB, Prisma) e Docker. Também tenho vivência complementar em Python, SQL e Power BI para automação e análise de dados, o que me dá uma visão completa de todo o ciclo de um produto — do dado bruto à experiência final do usuário.
 
+Acredito que a tecnologia gera mais valor quando une boas soluções técnicas a um entendimento real do problema de negócio, e busco continuar evoluindo como desenvolvedor full stack, sempre unindo qualidade de código com visão prática de impacto.
 ---
 
 ## 💼 Experiência
@@ -23,16 +24,16 @@ Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial, B
 ### Desenvolvedor Full Stack | Líder de Equipe  
 **BELUGA**  
 ago de 2024 – atual
-
 - Desenvolvimento de aplicação educacional com foco em experiência do usuário e organização de dados acadêmicos  
-- Atuação em Front-End com HTML, CSS, JavaScript e React  
+- Atuação em Front-End com HTML, CSS e JavaScript  
+- Construção de Back-End com Node.js, Express e TypeScript  
 - Estruturação e manipulação de dados para organização de matrizes curriculares  
-- Participação em integrações entre Front-End e Back-End  
+- Participação em integrações entre Front-End e Back-End via APIs REST  
 - Criação de interfaces responsivas com foco em UI/UX  
 - Liderança de equipe utilizando metodologias ágeis (Scrum e Kanban)  
 - Planejamento e acompanhamento de sprints  
 - Organização de tarefas e alinhamento do time  
-- Colaboração com times técnicos para evolução contínua do sistema  
+- Colaboração com times técnicos para evolução contínua do sistema 
 
 ---
 
